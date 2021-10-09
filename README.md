@@ -59,3 +59,7 @@ Please find the swagger docs here : http://localhost:8080/api-docs
 | ------ | ------ | ------ |
 | Vote Movie | /movies/{movieId}/vote | Peding |
 | Get Recommendation | /movies/recommendation | Peding |
+
+## Unit Test Report
+![TASK](https://user-images.githubusercontent.com/23335311/136664260-aef72491-1e9e-43ec-9495-4a314aaa9cac.PNG)
+
